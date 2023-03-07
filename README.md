@@ -16,7 +16,6 @@ Wishlist: Users can add products to their wishlist and save them for later.
 
 Shop: The app includes a shop feature that displays all products available for purchase.
 
-About me: The app includes an "about me" section that provides users with information about the company and its mission.
 
 # Installation 
 npm / yarn install 
