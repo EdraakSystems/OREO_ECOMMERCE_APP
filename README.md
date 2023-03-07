@@ -18,11 +18,15 @@ Shop: The app includes a shop feature that displays all products available for p
 
 About me: The app includes an "about me" section that provides users with information about the company and its mission.
 
-
+# Installation 
+npm / yarn install 
+# Run Project 
+npm react-native run-android
 
 # Screen Shots
-
-![1](https://user-images.githubusercontent.com/121944629/221527026-e978b733-7271-425a-bde3-a85315c830ed.png)
+![Screenshot_1678172707](https://user-images.githubusercontent.com/121944629/223348845-4fa1f532-44e0-4b3e-866c-b13cddde40dc.png)
+![Screenshot_1678172709](https://user-images.githubusercontent.com/121944629/223348858-d7805c3c-e3a0-41ca-91c6-0ffff5d24eb4.png)
+![Screenshot_1678172712](https://user-images.githubusercontent.com/121944629/223348866-5e57fb22-8d64-4673-99d4-463a3b0f471a.png)
 ![2](https://user-images.githubusercontent.com/121944629/221527035-20bd8f71-fd26-489f-8764-eee4cc01cc1e.png)
 ![3](https://user-images.githubusercontent.com/121944629/221527047-fc95ce35-975e-4aa4-ac87-e6173d0031eb.png)
 ![4](https://user-images.githubusercontent.com/121944629/221527058-093f0a0f-1b4f-4daa-9675-5e023581cd4e.png)
